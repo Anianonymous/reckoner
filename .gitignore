@@ -42,3 +42,25 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# C and C++ related
+*.c
+*.cpp
+*.h
+*.hpp
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.exe
+*.out
+*.obj
+*.sln
+*.vcxproj
+*.pdb
+*.ilk
+*.idb
+
+# HTML related
+*.html
